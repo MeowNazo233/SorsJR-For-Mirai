@@ -12,5 +12,5 @@
 
 ### 增加图文消息
 
-#### 图片格式 [mirai:image:相对路径:path]
-#### 图片存放目录 Mirai\data\net.mamoe.mirai-api-http\images
+##### 图片格式 [mirai:image:相对路径:path]
+##### 图片存放目录 Mirai\data\net.mamoe.mirai-api-http\images
